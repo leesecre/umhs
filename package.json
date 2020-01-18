@@ -1,0 +1,19 @@
+{
+  "name": "mongoose_tutorial",
+  "version": "1.0.0",
+  "description": "VELOPERT 블로그에 작성한 강좌에 사용된 프로젝트 입니다.   MongoDB, Mongoose 와 Express 를 사용하여 간단한 RESTful API 를 구현합니다.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^4.13.19",
+    "ng-lock-system": "0.0.1",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {}
+}
